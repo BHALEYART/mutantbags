@@ -1,0 +1,38 @@
+{
+  "name": "MUTANT$ #13",
+  "symbol": "MUTANT$",
+  "description": "Custom generated Bag Mutation$ based on each individual holder's collection. Created by Combining 2 Eligible Scumbag$ NFTs with a Slimeball$ NFT. Highest Rank of all Scumbag$ related collections.",
+  "seller_fee_basis_points": 400,
+  "image": "https://raw.githubusercontent.com/BHALEYART/mutantbags/main/mutant13.png",
+  "external_url": "MUTANT$",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "Mutant Name",
+      "value": "Mild Sauce"
+    },
+    {
+    "trait_type": "Mutant Type",
+      "value": "Backpack"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/mutantbags/main/mutant13.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2L5XkJdPfhsetVCvdSuxrS9bW73fAbBrsNJuTJxA75C3",
+        "share": 80
+      },
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 20
+      }
+    ]
+  }
+}
